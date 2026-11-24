@@ -4,7 +4,7 @@ A reference catalog indexing Model Context Protocol integrations, server definit
 
 ## Overview
 
-This project provides structured links and metadata for integrations indexed by [NexAIz](https://nexaiz.com).
+This project provides structured links and metadata for integrations indexed by [NexAIz MCP Hub](https://nexaiz.com).
 
 ### Key Integration Areas
 
@@ -21,7 +21,7 @@ Hardware planning estimates for running local model backends alongside tool serv
 - Mid-range models (14B to 32B): 12 to 24 GB video memory.
 - Large models (70B+): 48 GB+ multi-accelerator configurations.
 
-Interactive sizing tools and configuration generators are available on [nexaiz.com](https://nexaiz.com).
+Interactive sizing tools and configuration generators are available on the [NexAIz GPU VRAM Calculator](https://nexaiz.com).
 
 ## License
 
